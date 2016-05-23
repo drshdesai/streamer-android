@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/help.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/help.png"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/aboutus.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/aboutus.png"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/settings.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/settings.png"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/icon_name.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/icon_name.png"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/create.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/create.png"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/ic_done_white_24dp.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/home.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/home.png"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/ic_signal_wifi_off_white_24dp.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/ic_signal_wifi_off_white_24dp.png"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/drawable-v21/ic_signal_wifi_4_bar_white_24dp.png",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/drawable-v21/ic_signal_wifi_4_bar_white_24dp.png"
+    }
+]

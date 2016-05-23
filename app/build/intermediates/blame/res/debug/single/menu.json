@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/menu/main_screen.xml",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/menu/main_screen.xml"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/menu/activity_main_screen_drawer.xml",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/menu/activity_main_screen_drawer.xml"
+    },
+    {
+        "merged": "/home/drshdesai/Documents/Projects/Streamer/app/build/intermediates/res/merged/debug/menu/menu_main_screen.xml",
+        "source": "/home/drshdesai/Documents/Projects/Streamer/app/src/main/res/menu/menu_main_screen.xml"
+    }
+]
